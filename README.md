@@ -2,6 +2,8 @@
 
 A little island for your MacBook's notch: your music, a focus timer, a file shelf, your clipboard, a camera mirror and a teleprompter, right under the camera.
 
+![Blackcap: your notch, alive](images/01-hero.png)
+
 ## Download
 
 **[Download Blackcap](https://github.com/vimall22/blackcap/releases/latest/download/Blackcap.dmg)**. The link always gives you the newest version.
@@ -10,6 +12,16 @@ You need:
 - a MacBook with a notch;
 - macOS 14 (Sonoma) or later;
 - the Spotify app, for the music features.
+
+## What it does
+
+| | |
+|---|---|
+| ![It moves to your music](images/02-beat.png) | ![Your song, its colours](images/03-colours.png) |
+| ![A little company](images/04-companions.png) | ![Three looks](images/05-looks.png) |
+| ![Settings: a switch for everything](images/06-settings.png) | ![Check your look, then join](images/07-mirror.png) |
+| ![Focus](images/08-focus.png) | ![Files and copies, close at hand](images/09-keep-close.png) |
+| ![Teleprompter](images/10-prompter.png) | |
 
 ## Install (once, about two minutes)
 
