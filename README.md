@@ -11,7 +11,7 @@ A little island for your MacBook's notch: your music, a focus timer, a file shel
 You need:
 - a MacBook with a notch;
 - macOS 14 (Sonoma) or later;
-- the Spotify app, for the music features.
+- the Spotify app or Apple Music, for the music features.
 
 ## What it does
 
@@ -42,9 +42,10 @@ Blackcap asks the first time you use each feature:
 | Permission | What it's for |
 |---|---|
 | Control Spotify | Showing and controlling what's playing |
+| Control Music | The same for Apple Music, the first time you play something there |
 | Camera | The camera mirror, only while it's open. Photos are saved only when you click the camera button. |
 | Microphone | The teleprompter listens to how loud you are, so it can pause when you stop talking. Nothing is recorded. |
-| Spotify's sound | Beat-following (off until you turn it on) moves the light with the music. Nothing is recorded. |
+| The music's sound | Beat-following (off until you turn it on) moves the light with Spotify or Apple Music. Nothing is recorded. |
 
 ## Using it
 
