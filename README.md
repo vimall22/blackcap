@@ -42,7 +42,7 @@ Blackcap asks the first time you use each feature:
 | Permission | What it's for |
 |---|---|
 | Control Spotify | Showing and controlling what's playing |
-| Control Music | The same for Apple Music, the first time you play something there |
+| Control Music | The same for Apple Music |
 | Camera | The camera mirror, only while it's open. Photos are saved only when you click the camera button. |
 | Microphone | The teleprompter listens to how loud you are, so it can pause when you stop talking. Nothing is recorded. |
 | The music's sound | Beat-following (off until you turn it on) moves the light with Spotify or Apple Music. Nothing is recorded. |
@@ -63,10 +63,11 @@ It restarts in a few seconds, keeping your settings and permissions. You can als
 
 ## Privacy
 
-Blackcap collects nothing. It goes online for three things:
+Blackcap collects nothing. It goes online for four things:
 - the album art for what's playing, from Spotify;
 - synced lyrics from [LRCLIB](https://lrclib.net), which gets the song's title, artist, album and length;
-- one update check a day, here on GitHub.
+- one update check a day, here on GitHub;
+- your rating and comments, only when you press **Send** in Rate Blackcap, emailed to Vimall.
 
 Your clipboard history stays in memory and is never saved.
 
@@ -80,4 +81,4 @@ Photos from the camera mirror are in `Pictures/Blackcap`.
 
 ---
 
-Made by Vimall for friends. Something not working? Message me. Blackcap isn't affiliated with Apple or Spotify.
+Made by Vimall for friends. Something not working? Message me. Blackcap isn't affiliated with Apple, Spotify, Anthropic or Cleve AI.
