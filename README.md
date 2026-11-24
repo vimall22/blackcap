@@ -11,7 +11,7 @@ A little island for your MacBook's notch: your music, a focus timer, a file shel
 You need:
 - a MacBook with a notch;
 - macOS 14 (Sonoma) or later;
-- the Spotify app or Apple Music, for the music features.
+- the Spotify app, Apple Music, or YouTube and other music in a browser (turn on "YouTube and browsers" in Settings), for the music features.
 
 ## What it does
 
@@ -45,7 +45,7 @@ Blackcap asks the first time you use each feature:
 | Control Music | The same for Apple Music |
 | Camera | The camera mirror, only while it's open. Photos are saved only when you click the camera button. |
 | Microphone | The teleprompter listens to how loud you are, so it can pause when you stop talking. Nothing is recorded. |
-| The music's sound | Beat-following (off until you turn it on) moves the light with Spotify or Apple Music. Nothing is recorded. |
+| The music's sound | Beat-following (off until you turn it on) moves the light with the player the notch shows: Spotify, Apple Music, or a browser. In a browser it follows all of its sound, Meet calls too. Nothing is recorded. |
 
 ## Using it
 
@@ -67,7 +67,9 @@ Blackcap collects nothing. It goes online for four things:
 - the album art for what's playing, from Spotify;
 - synced lyrics from [LRCLIB](https://lrclib.net), which gets the song's title, artist, album and length;
 - one update check a day, here on GitHub;
-- your rating and comments, only when you press **Send** in Rate Blackcap, emailed to Vimall.
+- your rating and comments, only when you press **Send** in Rate Blackcap, emailed to Vimall, with your email if you add it so he can reply.
+
+"YouTube and browsers" (off until you turn it on) reads what your browser tells macOS is playing, through a part of macOS that Apple doesn't publish. It stays on your Mac: the art comes from macOS, not the internet. Songs that have an album name get lyrics from LRCLIB like the rest.
 
 Your clipboard history stays in memory and is never saved.
 
