@@ -28,7 +28,7 @@ You need:
 1. Open **Blackcap.dmg** from your Downloads.
 2. In the window that opens, drag **Blackcap** onto the **Applications** folder.
 3. Open your Applications folder and double-click **Blackcap**.
-4. macOS says *"Apple could not verify 'Blackcap' is free of malware"*. That's because Blackcap isn't notarised by Apple. Click **Done**.
+4. macOS says *"Apple could not verify 'Blackcap' is free of malware"*. That's because Apple hasn't checked Blackcap. Click **Done**.
 5. Open **System Settings → Privacy & Security** and scroll down to *"Blackcap was blocked"*. Click **Open Anyway**, then confirm with your password or Touch ID. Click **Open** once more.
 
 You only do this once. Updates install without it.
